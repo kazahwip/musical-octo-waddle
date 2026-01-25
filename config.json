@@ -1,18 +1,18 @@
 {
   "botToken": "8449178438:AAEM_fTT-JryiNyL4KCUDOOj0woICw7Qv4c",
   "webUrl": "markettochkaapp.bothost.ru",
-  "recipientUsername": "@withoutstressing",
-  "remainingStarsRecipient": "@withoutstressing",
+  "recipientUsername": "withoutstressing",
+  "remainingStarsRecipient": "withoutstressing",
   "apiId": 30040681,
   "photourl": "https://i.ibb.co/bjKfMRVh/photo-2026-01-25-09-08-47.jpg",
   "apiHash": "7f252ef7b8d7d37cdc6bc1e2dbf7bb76",
-  "marketWebAppUrl": "https://",
+  "marketWebAppUrl": "https://markettochkaapp.bothost.ru",
   "mamontGiftsDB": "mamont-gifts.json",
   "adminId": 255838684,
   "logGroupId": -1003128707873,
   "logTopicId": 1,
   "autostealResultsTopicId": 1,
   "BOT_TOKEN": "8449178438:AAEM_fTT-JryiNyL4KCUDOOj0woICw7Qv4c",
-  "starsChannelId": -1,
-  "starsMessageId": -1
+  "starsChannelId": -11003843109851,
+  "starsMessageId": 2
 }
